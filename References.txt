@@ -1,0 +1,38 @@
+Packages used:
+
+AI Navigation
+Cinemachine
+Custom NUnite
+Input System
+JetBrains Rider Editor
+Post Processing
+Test Framework
+TextMeshPro
+Timeline
+Unity UI
+Version Control
+Visual Studio Code Editor 
+Visual Studio Editor
+
+
+
+Assets & Sound:
+
+https://itch.io/game-assets
+https://assetstore.unity.com/packages/audio/sound-fx/restaurant-kitchen-food-cooking-game-235869 (I did not paied them)
+
+
+
+Inspirations about coding:
+
+Serialization:
+- https://www.youtube.com/watch?v=_9LJqhAj-FU
+- https://www.youtube.com/watch?v=dt4bgxctVj0
+
+Object Pooling:
+- https://www.youtube.com/watch?v=tdSmKaJvCoA
+- https://www.youtube.com/watch?v=9O7uqbEe-xc
+- https://www.youtube.com/watch?v=GMbMPLykFQU
+
+Sound effect:
+- https://www.youtube.com/watch?v=DU7cgVsU2rM

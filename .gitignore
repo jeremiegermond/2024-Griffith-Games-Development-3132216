@@ -1,0 +1,13 @@
+# Unity generated files
+Library/
+Temp/
+Logs/
+# Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.user
+# Others
+*.meta
+*.suo
+/2024 Griffith Games Development - 3132216/build/
